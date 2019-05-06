@@ -1,6 +1,6 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDYPO5iPMk1pmNow_WBjG9CbJoGul2ZR-w",
+  //apiKey: "blah",
   authDomain: "parkinglot-237dc.firebaseapp.com",
   databaseURL: "https://parkinglot-237dc.firebaseio.com",
   projectId: "parkinglot-237dc",
